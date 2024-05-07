@@ -1,16 +1,14 @@
-# Nerfies
+## Webpage Template
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This template was originally made by [Phillip Isola](http://web.mit.edu/phillipi/) and [Richard Zhang](http://richzhang.github.io/) for a [colorful project](http://richzhang.github.io/colorization/), and inherits the modifications made by [Jason Zhang](https://github.com/jasonyzhang/webpage-template).
+See how the webpage looks [here](https://elliottwu.com/webpage-template/).
 
-If you find Nerfies useful for your work please cite:
+To use this template, clone the repo:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
+git clone https://github.com/elliottwu/webpage-template
 ```
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Copy the contents into a `gh-pages` branch of a GitHub repo. That will automatically
+make a webpage under address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
+
+Don't forget to update the Google Analytics script!
